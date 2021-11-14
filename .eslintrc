@@ -12,6 +12,7 @@ globals:
   _: readonly
   L: readonly
   noUiSlider: readonly
-
+rules:
+   id-length: 0
 extends:
   "htmlacademy/vanilla"
