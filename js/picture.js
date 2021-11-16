@@ -52,3 +52,4 @@ export const renderPictures = (data) => {
 
   document.querySelector('.pictures').append(fragment);
 }
+//

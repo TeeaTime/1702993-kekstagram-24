@@ -8,6 +8,6 @@ export const getRandomPositiveInteger = (a, b) => {
 export const checkStringLength = (string, length) => {
   return string.length <= length;
 };
-
+//
 
 
